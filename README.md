@@ -58,8 +58,8 @@ JWT_SECRET=your-secret-key
 
 ```bash
 # Клонирование репозитория
-git clone <repository-url>
-cd gophermart
+git clone https://github.com/InQaaaaGit/go_loyalty.git
+cd go_loyalty
 
 # Установка зависимостей
 go mod download
@@ -190,4 +190,4 @@ go test -cover ./...
 
 ## Лицензия
 
-MIT License 
+MIT License
